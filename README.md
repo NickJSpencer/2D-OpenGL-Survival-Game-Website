@@ -1,3 +1,5 @@
+Website: https://calpoly-csc471-fall-17.github.io/final-project-website-NickJSpencer/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/calpoly-csc471-fall-17/final-project-website-NickJSpencer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
