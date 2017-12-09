@@ -7,6 +7,11 @@ active: home
     float: left;
     width: 50%;
 }
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 
 <h1 align="center">Game Abstract</h1>
 <div>
@@ -90,15 +95,15 @@ active: home
 <h1>Some Nice Screenshots</h1>
 <div class="row">
   <div class="column">
-      <img src="OpeningScene.png"></img>
+    <img src="OpeningScene.png"></img>
     <p>
       This is the opening image when the game starts.
     </p>
   </div>
-     <div class="column">
+  <div class="column">
     <img src="PowerUp.png"></img>
-  <p>
-    The purple/green orb is a powerup!
-  </p>
-</div> 
+    <p>
+      The purple/green orb is a powerup!
+    </p>
+  </div> 
 </div>
